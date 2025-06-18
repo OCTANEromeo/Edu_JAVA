@@ -1,0 +1,20 @@
+package loops;
+import java.util.Scanner;
+public class While_PasswordLogin {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc=new Scanner(System.in);
+		String pass;
+		while(true) {
+			System.out.println("Enter the passowrd");
+			pass=sc.nextLine();
+			if(pass==("java123")){
+			System.out.println("Password Accepted");
+			break;
+			}else {
+				System.out.println("Wrong password!, Retry again");
+			}
+		}
+	}
+}

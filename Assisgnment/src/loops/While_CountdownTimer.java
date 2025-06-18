@@ -1,0 +1,16 @@
+package loops;
+import java.util.Scanner;
+public class While_CountdownTimer {
+	public static void main(String args[]) {
+		int num;
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Enter the Countdown number");
+		num=sc.nextInt();
+		while(num>0) {
+			System.out.println(num);
+			num--;
+		}
+			
+	
+	}
+}

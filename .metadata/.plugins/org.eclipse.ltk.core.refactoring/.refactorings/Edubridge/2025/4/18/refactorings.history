@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;edu_package.Object_class.java&apos; to &apos;Car_class.java&apos;&#x0D;&#x0A;- Original project: &apos;Edubridge&apos;&#x0D;&#x0A;- Original element: &apos;edu_package.Object_class.java&apos;&#x0D;&#x0A;- Renamed element: &apos;edu_package.Car_class.java&apos;" description="Rename compilation unit &apos;Object_class.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;edu_package{Object_class.java" name="Car_class.java" references="false" stamp="1746008598085" version="1.0"/>
+</session>

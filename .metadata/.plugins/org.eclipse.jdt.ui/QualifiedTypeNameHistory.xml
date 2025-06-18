@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+    <fullyQualifiedTypeName name="java.util.StringJoiner"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="edu_package.Bank_class"/>
+    <fullyQualifiedTypeName name="edu_package.Student_class"/>
+    <fullyQualifiedTypeName name="overloading.Calculator"/>
+    <fullyQualifiedTypeName name="compileTime.MessageSenderCompileTime"/>
+    <fullyQualifiedTypeName name="compileTime.PaymentProcessor"/>
+    <fullyQualifiedTypeName name="runTime.Messenger"/>
+    <fullyQualifiedTypeName name="runTime.whatsappMessenger"/>
+    <fullyQualifiedTypeName name="runTime.EmailMessenger"/>
+    <fullyQualifiedTypeName name="runTime.PaymentRunTime"/>
+</qualifiedTypeNameHistroy>

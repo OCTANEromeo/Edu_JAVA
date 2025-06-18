@@ -1,0 +1,19 @@
+package loops;
+import java.util.Scanner;
+public class DoWhile_Continue_Exit {
+	public static void main(String args[]) {
+		Scanner sc=new Scanner(System.in);
+		String prompt;
+		do {
+			System.out.println("Enter "+"yes"+" to continue and "+"no"+" to exit");
+			prompt=sc.nextLine();
+			if(prompt.equals("yes")) {
+				System.out.println("Loop continue");
+			}
+			if(prompt.equals("no")) {
+				System.out.println("Loop ended.");
+				break;
+			}
+		}while(true);
+	}
+}
